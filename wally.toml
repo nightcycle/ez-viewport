@@ -1,0 +1,10 @@
+[package]
+name = "nightcycle/viewport-handler"
+description = "A wally &amp; github port of Boatbomber's useful ViewportFrame Handler"
+version = "1.0.0"
+authors = ["boatbomber <zack@boatbomber.com>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]

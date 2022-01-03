@@ -1,0 +1,8 @@
+{
+	"Lua.diagnostics.ignore": [
+		"GetEnums"
+	],
+    "terminal.integrated.env.windows": {
+        "PATH":"C:/Users/Work/.foreman/bin",
+    }
+}
